@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mern-repo/static/css/main.e180d080.css",
+    "main.js": "/Mern-repo/static/js/main.b4c04642.js",
+    "index.html": "/Mern-repo/index.html",
+    "main.e180d080.css.map": "/Mern-repo/static/css/main.e180d080.css.map",
+    "main.b4c04642.js.map": "/Mern-repo/static/js/main.b4c04642.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e180d080.css",
+    "static/js/main.b4c04642.js"
+  ]
+}
